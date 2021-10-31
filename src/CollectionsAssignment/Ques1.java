@@ -8,7 +8,7 @@ import java.util.List;
 public class Ques1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Question 1 : Print string in reverse order
 
 		List<String> li = new ArrayList<String>();
 		li.add("Orange");
